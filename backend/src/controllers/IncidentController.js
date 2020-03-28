@@ -52,7 +52,7 @@ module.exports = {
 
     await connection('incidents')
       .where('id', id)
-      .delete();
+      .del();
 
     return response.status(204).send();
   }
