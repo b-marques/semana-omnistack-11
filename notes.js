@@ -46,3 +46,9 @@
  * Listar todos os casos
  * Entrar em contato com a ONG
  */
+
+/**
+ * Validações:
+ *
+ * Biblioteca: celebrate
+ */
